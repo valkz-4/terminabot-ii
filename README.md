@@ -8,4 +8,4 @@ Just an app for self-learning, and perhaps, self-satisfaction.
     - Added Main Menu page
     - Plugged-in:
         - Fluttergen
-        - Flutter_launcher_icons
+        - Flutter_launcher_icon
